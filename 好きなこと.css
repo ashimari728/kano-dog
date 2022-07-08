@@ -1,0 +1,157 @@
+h2 {
+  font-family: "UD デジタル 教科書体 NK-B";
+  color: #9d777c;
+  font-size: 2.5rem;
+  text-align: center;
+  margin-top: 200px;
+}
+
+a {
+  text-decoration: none;
+  color: #b07f72;
+}
+
+header {
+  background-color: antiquewhite;
+  max-width: 1700px;
+  margin: 0 auto;
+  padding: 0 4%;
+}
+
+.logo {
+  width: 400px;
+  margin-top: 14px;
+}
+.mainNav {
+  display: flex;
+  list-style: none;
+  font-size: 1.25rem;
+}
+
+.mainNav li {
+  margin-left: 36px;
+}
+
+.pageHeader {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+
+.topScreen {
+  display: flex;
+  flex-direction: row;
+  margin-top: 25px;
+  justify-content: center;
+}
+
+.topSentence {
+  font-family: "UD デジタル 教科書体 NK-B";
+  font-size: 2rem;
+  /* margin-left: 300px; */
+  margin-top: 450px;
+}
+
+.topPicture {
+  width: 50%;
+  height: auto;
+  margin-left: 50px;
+}
+
+.episordOfEncounter {
+  font-family: "UD デジタル 教科書体 NK-B";
+  font-size: 2rem;
+  color: #87888e;
+  margin: auto 0;
+}
+.encounter {
+  width: 30%;
+  height: auto;
+  margin-left: 50px;
+}
+
+.encounterWithWill {
+  display: flex;
+  justify-content: center;
+}
+
+.characterSection {
+  display: flex;
+  justify-content: center;
+  /* margin-left: 400px;
+  margin-top: 200px; */
+}
+
+.characterOfWill {
+  font-family: "UD デジタル 教科書体 NK-B";
+  font-size: 2rem;
+  color: #87888e;
+  margin: auto 0;
+  margin-left: 50px;
+}
+
+.character {
+  width: 30%;
+  height: auto;
+}
+
+.physicalSection {
+  display: flex;
+  justify-content: center;
+}
+
+.physicalOfWill {
+  font-family: "UD デジタル 教科書体 NK-B";
+  font-size: 2rem;
+  color: #87888e;
+  margin: auto 0;
+}
+
+.grabWill {
+  width: 30%;
+  height: auto;
+  margin-left: 50px;
+}
+
+.currentEpisord {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 200px;
+}
+
+.currentStatus {
+  font-family: "UD デジタル 教科書体 NK-B";
+  font-size: 2rem;
+  color: #87888e;
+  margin: auto 0;
+  margin-left: 50px;
+}
+
+.towel {
+  width: 30%;
+  height: auto;
+}
+
+.Youtube {
+  font-family: "UD デジタル 教科書体 NK-B";
+  font-size: 1rem;
+  margin: auto o;
+}
+
+.explainGalary p {
+  text-align: center;
+}
+
+.wrapperGrid {
+  display: grid;
+  gap: 26px;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  margin-top: 6%;
+  margin-bottom: 50px;
+}
+
+.galaryPicture {
+  width: 80%;
+  height: auto;
+}
